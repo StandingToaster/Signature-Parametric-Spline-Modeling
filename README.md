@@ -8,6 +8,9 @@ This project models handwritten signatures using parametric cubic splines, allow
 - Visualization of the reconstructed signature with segmented colors.
 - Mathematical modeling with parametric splines for accurate representation.
 
+## Output Demo
+![Demo](./Demo.png)
+
 ## Installation
 1. Clone the repository:
    ```bash
